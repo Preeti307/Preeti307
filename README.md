@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Deep learning**
 
-- 💬 Ask me about **Pythan**
+- 💬 Ask me about **Python**
 
 - 📫 How to reach me **preetikhatri307@gmail.com**
 
